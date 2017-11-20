@@ -1,4 +1,4 @@
-// assign03 -- assign03.cpp
+// filename -- contest.cpp
 // Jabriel C. Jones
 // The purpose of this program is to recieve data for a programming contest via a file, 
 // organize the results, and outputs them in the form of a table.
